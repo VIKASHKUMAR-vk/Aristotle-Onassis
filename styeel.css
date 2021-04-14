@@ -1,0 +1,34 @@
+body {
+    background-color: #C8C8C8;
+    background-color: hsl(0,0%,78%);}
+.divmy {
+    background-color: #ffffff;
+    background-color: hsla(0,100%,100%,0.5);}
+.last{
+    background-color: white;
+    
+}
+h1{
+    color: tomato;
+}
+img{
+    border-width: 2px;
+    border-top-left-radius: 40px 40px;
+    border-top-right-radius: 40px 40px;
+    
+    border-bottom-left-radius: 40px 40px;
+    border-bottom-right-radius: 40px 40px;
+    border-color: #110502;
+}
+ul{
+    border-style: double;
+    border-width: 6px;
+    list-style-type: circle;
+    border-color: #0b2a2b;
+}
+li{
+    padding: 10px;
+}
+footer{
+    cursor: pointer;
+}
